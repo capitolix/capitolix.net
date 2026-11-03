@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://capitolix.net/sitemap-index.xml
+Sitemap: https://www.capitolix.net/sitemap-index.xml
