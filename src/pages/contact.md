@@ -4,4 +4,4 @@ title: Contact
 description: Contact Capitolix
 ---
 
-Capitolix can be reached at admin@capitolix.net.
+Capitolix can be reached at contact@capitolix.net.

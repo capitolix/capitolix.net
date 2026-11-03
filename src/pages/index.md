@@ -1,7 +1,5 @@
 ---
 layout: ../layouts/Page.astro
-title: Capitolix
-description: Capitolix
 ---
 
 # Power Your Campaign
